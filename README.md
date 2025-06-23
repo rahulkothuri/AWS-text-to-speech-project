@@ -5,6 +5,7 @@ This project provides a serverless web application that converts user-submitted 
 
 ## Architecture Diagram
 
+![arc_diagram](https://github.com/user-attachments/assets/4325e857-1329-4188-8920-74efcfe95f53)
 
 
 ## Components
