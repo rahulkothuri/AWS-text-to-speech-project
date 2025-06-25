@@ -1,4 +1,4 @@
-var API_ENDPOINT = "https://ik920ownb7.execute-api.us-east-1.amazonaws.com/dev/data"
+var API_ENDPOINT = "API endpoint"
 
 document.getElementById("sayButton").onclick = function(){
 
